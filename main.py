@@ -4,9 +4,13 @@ residuo = 0
 # Guillermo Maldonado
 
 
-# Grecia Fuentes
+# Grecia Fuente
 
 
 # Diego Gomez
+i = 0
 
+while i <= mayor:
+    i += 1
+    print(i)
 
