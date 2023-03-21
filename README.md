@@ -1,13 +1,17 @@
-# Tecno_solutions
- Examen parcial 2
-# Python
-Pyhton es un lenguaje de alto nivel
+# ***Tecno_solutions*** 
+## ***Examen parcial 2***
 
-[Ingrese aqui para ir a python.org](https://www.python.org/)
+ _Python es un lenguaje de alto nivel 
+de programación interpretado cuya filosofía hace hincapié en la legibilidad 
+de su código, se utiliza para desarrollar aplicaciones de todo tipo. 
+ejemplos: Instagram, Netflix, Spotify, entre otros._ 
 
-* Integrantes del grupo 
-  * Guillermo Maldonado
-    * Grecia Fuentes
-      * Dieguito Gomez
+
+_[Presione aqui para ir a python.org](https://www.python.org/)_
+
+* _***Integrantes del grupo***_
+  * _Guillermo Maldonado_
+    * _Grecia Fuentes_
+      * _Dieguito Gomez_
 
 
